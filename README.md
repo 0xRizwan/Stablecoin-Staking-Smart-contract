@@ -1,4 +1,4 @@
-<h1>Crowdfunding - Campaign Contract</h1>
+<h1> Stablecoin staking Smart Contract</h1>
 
 ## 🚀 Kindly follow below steps to check the smart contract.
 
