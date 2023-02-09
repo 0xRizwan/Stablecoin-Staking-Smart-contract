@@ -1,13 +1,14 @@
-# Sample Hardhat Project
+<h1>Crowdfunding - Campaign Contract</h1>
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## 🚀 Kindly follow below steps to check the smart contract.
 
-Try running some of the following tasks:
+Step 1- you should have installed `Node.js` <br>
+step 2 - npm install <br>
+step 3.1 - npx hardhat node, Open in separate terminal to run local node <br>
+step 3.2 - npx hardhat run scripts/deploy.js --network localhost, For deploy smart contract on hardhat local network. <br>
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+
+
+
+
+
